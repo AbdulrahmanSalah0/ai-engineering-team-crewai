@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Engineering Team — Multi-Agent Code Generation Pipeline
 
-> Built with **CrewAI** · **OpenAI GPT-4o-mini** · **Gradio**
+> Built with **CrewAI** · **OpenAI GPT-4o** · **Gradio**
 
 ---
 
@@ -97,10 +97,10 @@ test_task:
 
 | Agent | Role | LLM | Key Capability |
 |---|---|---|---|
-| **Engineering Lead** | Produces detailed module design | GPT-4o-mini | Technical writing & architecture |
-| **Backend Engineer** | Implements the Python module | GPT-4o-mini | Code generation + execution |
-| **Frontend Engineer** | Builds the Gradio UI | GPT-4o-mini | UI generation from backend spec |
-| **Test Engineer** | Writes unit tests | GPT-4o-mini | Test generation + execution |
+| **Engineering Lead** | Produces detailed module design | GPT-4o | Technical writing & architecture |
+| **Backend Engineer** | Implements the Python module | GPT-4o | Code generation + execution |
+| **Frontend Engineer** | Builds the Gradio UI | GPT-4o | UI generation from backend spec |
+| **Test Engineer** | Writes unit tests | GPT-4o | Test generation + execution |
 
 ---
 
@@ -221,7 +221,7 @@ Managed via `uv` — no manual pip installs needed.
 | Component | Technology |
 |---|---|
 | Agent Framework | CrewAI |
-| LLM | GPT-4o-mini |
+| LLM | GPT-4o |
 | UI | Gradio |
 | Code Execution | Docker (safe mode) |
 | Package Manager | uv |
