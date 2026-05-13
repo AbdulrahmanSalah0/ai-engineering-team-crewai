@@ -16,7 +16,7 @@ The pipeline targets a **Trading Simulation Account Management System** as its f
 
 [![Project Thumbnail](assets/thumbnail.png)](https://www.linkedin.com/in/abdulrahman--salah/)
 
-> Watch the full walkthrough on [LinkedIn]([https://www.linkedin.com/in/abdulrahman--salah/](https://www.linkedin.com/posts/abdulrahman--salah_crewai-aiagents-multiagent-ugcPost-7460318917761261569-KeaG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEae1O0BGv6jM2P8MJNaiDjcqy2_yIuyDik))
+> Watch the full walkthrough on [LinkedIn](https://www.linkedin.com/posts/abdulrahman--salah_crewai-aiagents-multiagent-ugcPost-7460318917761261569-KeaG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEae1O0BGv6jM2P8MJNaiDjcqy2_yIuyDik)
 
 ## 🚀 How It Works
 
